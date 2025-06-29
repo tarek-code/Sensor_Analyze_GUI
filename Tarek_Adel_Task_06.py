@@ -3,6 +3,7 @@
 # Task: 06
 # Compant: Kaitech
 # Date: 2025-06-29
+# Email: tarekadel314@gmail.com
 
 ######################################################imports########################################################
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout, 
@@ -14,7 +15,7 @@ from PyQt6.QtCore import Qt
 import sys
 import json
 import pandas as pd
-import os
+import os 
 
 #######################################################core##################################################
 ######################################################original data########################################################
