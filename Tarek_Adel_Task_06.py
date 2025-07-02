@@ -1641,7 +1641,7 @@ def main_console():
 
 if __name__ == "__main__":
     main_gui()  # Run the GUI application
-    #main_console()  # Run the console application
+   # main_console()  # Run the console application
 
 
 
